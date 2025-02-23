@@ -1,0 +1,3 @@
+hai|hello
+good morning|very good morning!!
+how are you?|fine thank you 
